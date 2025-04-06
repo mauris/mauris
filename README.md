@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-I'm a Software Engineer at Grab, and am currently based in Singapore 🇸🇬.
+I’m Sam — a Full Stack Software Engineer at Grab in Singapore, where I design and build scalable systems that power financial and payments capabilities across Southeast Asia.
 
-My core interests and technical specialties include Software Engineering, System Architecting, Cloud Native Tech, Distributed Systems & Databases, Frontend Development (React, Next.js, React Native), and Backend System Development (Go, Node.js, Python, Queues/Caches).
+My passion lies in crafting reliable, high-performance software with a strong focus on system architecture, cloud-native technologies, and distributed systems. I specialize in both frontend (React, Next.js, React Native) and backend development (Node.js, Go, Python), with hands-on experience in asynchronous processing and building for scale.
+
+Always curious, always building.
